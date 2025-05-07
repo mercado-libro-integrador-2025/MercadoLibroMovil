@@ -72,3 +72,4 @@ Este proyecto está desarrollado bajo la organización en GitHub siguiendo el fl
 - 🧑 Luna Dalla Lasta Marcelo Javier
 - 👩 Navarrete Romina Gabriela
 - 👩 Nobiltá Ivette Jael
+- 🧑 Arnaudo Octavio
