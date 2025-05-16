@@ -1,4 +1,4 @@
-# Mercado Libro Mobile ![logo de mercado libro](https://github.com/SharkCoders/FinalProject2023/assets/100625720/05114461-0323-4b0d-b7b0-31c4e9979fad)
+# Mercado Libro Mobile 
 ## Descripción del Proyecto 📝
 
 
